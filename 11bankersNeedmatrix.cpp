@@ -1,3 +1,4 @@
+// BANKER'S ALGORITHM
 #include <iostream>
 #include <vector>
 

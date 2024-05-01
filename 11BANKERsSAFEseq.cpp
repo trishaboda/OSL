@@ -1,3 +1,4 @@
+//BANKERS ALGORITHM - SAFE SEQUENCE
 #include <iostream>
 #include <vector>
 using namespace std;
